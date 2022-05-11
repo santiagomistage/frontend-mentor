@@ -10,4 +10,4 @@ Repository of Frontend Mentor projects, these projects have been built by Santia
 
 - [Four card feature section master](https://santiagomistage.github.io/frontend-mentor/four-card-feature-section-master)
 
-- [Testimonials-grid-section-main](https://santiagomistage.github.io/frontend-mentor/testimonials-grid-section-main)
+- [Testimonials grid section main](https://santiagomistage.github.io/frontend-mentor/testimonials-grid-section-main)
